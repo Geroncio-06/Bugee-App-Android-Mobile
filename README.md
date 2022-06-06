@@ -1,5 +1,5 @@
 # Bugee-App-Android-Mobile
-Bugee é aum App para Android que apresenta uma tela de abertura e um efeito de Transição entre activitys customizado.
+Bugee é aum App para Android que apresenta uma tela de abertura e um efeito de transição customizado entre activitys.
 
 [![MPLv2 License](http://img.shields.io/badge/license-MPLv2-blue.svg?style=flat-square)](https://www.mozilla.org/MPL/2.0/)
 
